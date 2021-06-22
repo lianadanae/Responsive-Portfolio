@@ -365,7 +365,7 @@ input[type=submit] {
     padding: 0;
   }
 
-  main.container {
+  main .container {
     padding-top: 0;
   }
   #logo,
